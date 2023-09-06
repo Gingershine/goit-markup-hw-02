@@ -27,7 +27,7 @@ address {
     font-style: normal;
 }
 
-.address-link, .address-phone {
+.address-link {
     color: #434455;
     background-color: #FFF;
     font-family: 'Roboto', sans-serif;
@@ -141,7 +141,7 @@ ul {
 .member-text {
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0,02em;
+    letter-spacing: 0.02em;
     text-align: center;
 }
 
@@ -177,11 +177,12 @@ footer {
     background-color: #2E2F42;
 }
 
-.fotter-studio {
+.footer-studio {
     color: #F4F4FD;
 }
 .footer-text {
     color: #F4F4FD;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    
 }
